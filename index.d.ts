@@ -3,7 +3,7 @@
  * If the browser is not installed on the device, it should fall back to a webview.
  * @param {AdvancedWebViewOptions}
  */
-export function openAdvancedUrl(options: AdvancedWebViewOptions): void;
+export function openAdvancedUrl(options: AdvancedWebViewOptions): any;
 
 export function init(): void;
 
